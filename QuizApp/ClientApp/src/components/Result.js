@@ -19,7 +19,7 @@ class Result extends Component {
         return (
             <div>
                 <h2>{this.props.message}</h2>
-                <Link className='btn btn-default' to={`/managehome`}>Back to Manage Quiz</Link>
+                <Link className='btn btn-default' to={`/managehome`}>Back to Add/Edit quiz</Link>
             </div>
 
         )

@@ -18,7 +18,7 @@ class Home extends Component {
     return (
       <div>
             <h1>Let's start!</h1>
-            <h4>What would you like to try today?</h4>
+            <h4>What category would you like to try?</h4>
             {renderSelectCategory(this.props)}
       </div>
     );

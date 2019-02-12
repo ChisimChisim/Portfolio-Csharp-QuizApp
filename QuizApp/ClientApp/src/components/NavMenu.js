@@ -26,7 +26,7 @@ export default props => (
         </LinkContainer>
         <LinkContainer to={'/history'}>
           <NavItem>
-            <Glyphicon glyph='education' /> Grade History
+            <Glyphicon glyph='education' /> Quiz Result History
           </NavItem>
         </LinkContainer>
    
