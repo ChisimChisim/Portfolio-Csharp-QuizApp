@@ -1,5 +1,5 @@
 <h1>Quiz Management & Play App</h1>
-<p>It is to learn C# .NET framewarok by creating original Quiz App from scrach.This original application includes the items below.</p>				
+<p>It is to learn C# .NET by creating original Quiz App from scratch.This original application includes the items below.</p>				
 	
 <ol><b>
 <li>C# ASP.NET Core</li>
